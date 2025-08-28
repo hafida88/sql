@@ -37,3 +37,5 @@ USE mydatabase
 #Exercice 3 : Modification des données dans une table
     Ajoutez une colonne dans la table Client pour stocker le numéro de téléphone des clients.
 */
+
+
