@@ -371,3 +371,5 @@ INNER JOIN `user`
 ON `eat`.`id_user` = `user`.`id_user`
 ORDER BY SUM(`eat`.`quantity`) DESC 
 LIMIT 1; 
+
+--Fin des exos --
